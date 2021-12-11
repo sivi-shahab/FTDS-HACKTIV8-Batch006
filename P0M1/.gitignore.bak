@@ -1,0 +1,5 @@
+__pycache__
+.vscode
+sales/__pycache__
+final_data2.csv
+h8dsft_Milestone1.ipynb
