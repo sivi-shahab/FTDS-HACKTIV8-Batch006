@@ -6,12 +6,18 @@ Full Stack Data Science Hacktiv8 ~ Batch006
 - Data Pre-processing, Data Visualization, Exploratory Data Analysis
 
 **Project**
-[Dashboard](https://github.com/sivi-shahab/FTDS-HACKTIV8-Batch006/tree/main/P0M1)
+[EDA for Supermarket Sales](https://github.com/sivi-shahab/FTDS-HACKTIV8-Batch006/tree/main/P0M1)
 
 
 **Month 2 - Machine Learning**
 - Supervised Learning
 - Unsupervised Learning
+
+**Project**
+[Predict prices of Uber and Lyft](https://github.com/sivi-shahab/FTDS-HACKTIV8-Batch006/blob/main/Graduate%20Challenge/h8dsft_P1W1Reg.ipynb)
+[Predict Rain Tomorrow in Australia](https://github.com/sivi-shahab/FTDS-HACKTIV8-Batch006/blob/main/Graduate%20Challenge/h8dsft_P1W1LGSVM.ipynb)
+
+
 
 **Month 3 - Deep Learning**
 - Artificial Neural Network
