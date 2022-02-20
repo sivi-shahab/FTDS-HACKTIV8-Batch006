@@ -26,7 +26,7 @@ Full Stack Data Science Hacktiv8 ~ Batch006
 
 5. [Predict if the client will subscribe (yes/no) a term deposit](https://github.com/sivi-shahab/FTDS-HACKTIV8-Batch006/blob/main/P1M1M2/h8dsft_Milestone1.ipynb)
 
-6. [Predict whether or not a patient has Diabetes](https://github.com/sivi-shahab/FTDS-HACKTIV8-Batch006/blob/main/P1M1M2/h8dsft_Milestone2.ipynb)
+6. [Predict whether or not a patient has Diabetes](https://github.com/sivi-shahab/FTDS-HACKTIV8-Batch006/blob/main/Final%20Projects/H8_final_projects.ipynb)
 
 **Month 3 - Deep Learning**
 - Artificial Neural Network
