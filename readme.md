@@ -20,6 +20,10 @@ Full Stack Data Science Hacktiv8 ~ Batch006
 
 [Predict Rain Tomorrow in Australia](https://github.com/sivi-shahab/FTDS-HACKTIV8-Batch006/blob/main/Graduate%20Challenge/h8dsft_P1W1LGSVM.ipynb)
 
+[Predicting mortality caused by Heart Failure] (https://github.com/sivi-shahab/FTDS-HACKTIV8-Batch006/blob/main/Graduate%20Challenge/h8dsft_P1W2Ens.ipynb)
+
+
+
 
 
 **Month 3 - Deep Learning**
